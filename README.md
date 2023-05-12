@@ -6,6 +6,6 @@
 
 - 🎓 Studying IT at Senac Recife
 - 👩🏻‍💻 I’m currently learning **HTML, CSS, JavaScript, Node, React, Python, SQL and Computer Network**
-- 🌎 Languages: **Native Portuguese / Fluent English / Entry-level Spanish** 
+- 🌎 Languages: **Native Portuguese / Fluent English / Beginner Spanish** 
 - 📫 How to reach me? Email me at bizzokpc@gmail.com
 - 🖥️ Some of my projects can be seen below, make yourself comfortable! ⬇️
