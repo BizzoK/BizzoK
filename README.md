@@ -2,7 +2,7 @@
 
 ### Feel welcome to my github profile! 👋
 
-- ⚡ A brief introduction: **Born in 2006, i'm a self-taught Web Developer resided in Brazil.**
+- ⚡ A brief introduction: **Born in 2006, i'm a self-taught Web Developer resided in Brazil**
 
 - 🎓 Studying IT at Senac Recife
 - 👩🏻‍💻 I’m currently learning **HTML, CSS, JavaScript, Node, React, Python, SQL and Computer Network**
